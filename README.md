@@ -1,5 +1,5 @@
 
-<a href="https://shiazza.medium.com/" target="_blank"><img id="Banner" crop="fill" src="https://github.com/shiazza/shiazza/blob/main/src/BackUi.jpg" width="1280" height="200" >
+<a href="https://shiazza.medium.com/" target="_blank"><img id="Banner" crop="fill" src="https://github.com/shiazza/shiazza/blob/main/src/Mount%20Bromo.jpg" width="1280" height="200" >
 
 ### Hey Bro!!!
 <a href="https://discord.gg/">
