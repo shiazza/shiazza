@@ -1,4 +1,7 @@
-### hey Bro!!!
+
+<a href="https://shiazza.medium.com/" target="_blank"><img id="Banner" crop="fill" src="https://github.com/shiazza/shiazza/blob/main/src/BackUi.jpg" width="1280" height="200" >
+
+### Hey Bro!!!
 <a href="https://discord.gg/">
   <img align="left" alt="Shiazza Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-vector-download-0.png" />
 </a>
@@ -23,10 +26,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 
-if you like what i do, maybe consider buying me a coffee/tea <img align="center" width="20px" src="https://github.com/shiazza/shiazza/blob/main/pleading-face_1f97a.ico" />
+if you like what i do, maybe consider buying me a coffee/tea <img align="center" width="20px" src="https://github.com/shiazza/shiazza/blob/main/src/Pleading_Face.ico" />
 
 <a href="https://www.buymeacoffee.com/shiazza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
 
 
