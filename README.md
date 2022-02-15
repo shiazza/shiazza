@@ -18,16 +18,22 @@
 <br />
 <img width="480px" align="right" src="https://github-readme-stats.vercel.app/api?username=shiazza&show_icons=true&theme=github_dark" alt="shiazza" />
 
-hi, i'm [Shiazza](https://shiazza.medium.com/), a passionate self-taught full stack web developer and a freelance software engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Shiazza](https://shiazza.medium.com/), a self-taught full stack web developer from Indonesia of Japanese descent. my passion for software lies in dreaming ideas and making them happen with an elegant interface. I take great care in the experience, architecture and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm also a fan of open-source. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
   
 - 💼 any freelance work? do reach, [email](mailto:dimasmaulana2007) :)
 - 💬 ask me about anything, i am happy to help;
 
 
 if you like what i do, maybe consider buying me a coffee/tea <img align="center" width="20px" src="https://github.com/shiazza/shiazza/blob/main/src/Pleading_Face.ico" />
-
+>All Country
+  
 <a href="https://www.buymeacoffee.com/shiazza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  
+Kalo lu suka apa yang gw buat, Kasih Gw Jajan Dong <img align="center" width="20px" src="https://github.com/shiazza/shiazza/blob/main/src/Pleading_Face.ico" />
+>Indonesia Only 
+
+<a href="https://www.nihbuatjajan.com/shiazza" target="_blank"><img src="https://i0.wp.com/d4xyvrfd64gfm.cloudfront.net/buttons/default-orange.png?w=750&ssl=1" alt="Nih Buat Jajan" width="150" ></a>
 
 
