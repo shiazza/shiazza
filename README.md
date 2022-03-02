@@ -15,16 +15,14 @@
   <img align="left" alt="Shietta (しえった) Twitter" width="27px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />
 </a>
 
+
+hi, i'm [Shiazza](https://shiazza.medium.com/),<h1>I'm Just a virtual human living in code 😸</h1>
+"Yang asli ada badaknya🦏"
+  
+- If you have questions or help, you can email to [Here (dimasmaulana2007@gmail.com)](mailto:dimasmaulana2007@gmail.com) 😁
+- Or Chat my Telegram [@shiazza](https://t.me/shiazza)
 <br />
 <img width="480px" align="right" src="https://github-readme-stats.vercel.app/api?username=shiazza&show_icons=true&theme=github_dark" alt="shiazza" />
-
-hi, i'm [Shiazza](https://shiazza.medium.com/), a self-taught full stack web developer from Indonesia of Japanese descent. my passion for software lies in dreaming ideas and making them happen with an elegant interface. I take great care in the experience, architecture and code quality of the things I build.
-
-I'm also a fan of open-source. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
-  
-- 💼 any freelance work? do reach, [email](mailto:dimasmaulana2007) :)
-- 💬 ask me about anything, i am happy to help;
-
 
 if you like what i do, maybe consider buying me a coffee/tea <img align="center" width="20px" src="https://github.com/shiazza/shiazza/blob/main/src/Pleading_Face.ico" />
 >All Country
