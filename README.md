@@ -1,7 +1,7 @@
 
 <a href="https://shiazza.medium.com/" target="_blank"><img id="Banner" crop="fill" src="https://github.com/shiazza/shiazza/blob/main/src/Mount%20Bromo.jpg" width="1280" height="200" >
 
-### Hey Bro!!!
+### Hi, i'm Shiazza!!!
 <a href="https://discord.gg/">
   <img align="left" alt="Shiazza Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-vector-download-0.png" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 
 
-hi, i'm [Shiazza](https://shiazza.medium.com/),<h1>I'm Just a virtual human living in code 😸</h1>
+<h1>I'm Just a virtual human living in code 😸</h1>
 "Yang asli ada badaknya🦏"
   
 - If you have questions or help, you can email to [Here (dimasmaulana2007@gmail.com)](mailto:dimasmaulana2007@gmail.com) 😁
