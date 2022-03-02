@@ -14,8 +14,7 @@
 <a href="https://twitter.com/shiazza_?lang=id">
   <img align="left" alt="Shietta (しえった) Twitter" width="27px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />
 </a>
-
-‎
+  ‎
 <h1>I'm Just a virtual human living in code 😸</h1>
 "Yang asli ada badaknya🦏"
   
