@@ -1,7 +1,7 @@
 
 <a href="https://shiazza.medium.com/" target="_blank"><img id="Banner" crop="fill" src="https://github.com/shiazza/shiazza/blob/main/src/Mount%20Bromo.jpg" width="1280" height="200" >
 
-### Hi, i'm Shiazza!!!
+### Hi, i'm "Ryunjin Yenshi" or you can call me "Ryo"
 <a href="https://discord.gg/">
   <img align="left" alt="Shiazza Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-vector-download-0.png" />
 </a>
