@@ -12,14 +12,7 @@
   <img align="left" alt="Shiazza_ Instagram" width="23px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png"/>
 </a>
 <a href="https://www.tiktok.com/@shiazza_?lang=id-ID">
-  <img align="left" alt="TikTok" width="18px" src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-white-symbol-glyph-png.png"/>
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://seeklogo.com/images/T/tiktok-white-logo-A8BB0A84C6-seeklogo.com.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://seeklogo.com/images/T/tiktok-logo-B9AC5FE794-seeklogo.com.png">
-  <img align="left" alt="TikTok" width="18px">
-</picture>
- 
+  <img align="left" alt="TikTok" width="18px" src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-white-symbol-glyph-png.png"/> 
 </a>
 <a href="https://twitter.com/shiazza_?lang=id">
   <img align="left" alt="Shietta (しえった) Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png"/>
