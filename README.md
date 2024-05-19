@@ -9,7 +9,7 @@
   </p>
 </p>
 </p>
-<img id="gambar" src="https://raw.githubusercontent.com/shiazza/shiazza/main/src/new/Foto.jpg" align="left" lebar="230" height="230">
+<img id="gambar" src="src/Tulisan(JUDUL).png" align="left" lebar="230" height="230">
 
 ## Hi, i'm "Ryunjin Yenshi" or you can call me "Ryo"
 
