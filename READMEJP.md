@@ -1,8 +1,8 @@
 <div align="center">
   <p>
-    <a href="/readme.md">英語</a> •
-    <a href="/readmeid.md">インドネシア語</a> •
-    <a href="/readmecn.md">簡体字</a>
+    <a href="/README.md">英語</a> •
+    <a href="/READMEID.md">インドネシア語</a> •
+    <a href="/READMECN.md">簡体字</a>
   </p>
   <img src="src/new/WhiteBanner.gif" alt="Banner">
   <h1>こんにちは、シアッザです。呼びたいならリュウタと呼んでください 👋</h1>
