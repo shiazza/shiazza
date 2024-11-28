@@ -1,8 +1,8 @@
 <div align="center">
   <p>
-    <a href="/readmeid.md">Bahasa Indonesia</a> •
-    <a href="/readmejp.md">日本語</a> •
-    <a href="/readmeid.md">简化字</a>
+    <a href="/READMEID.md">Bahasa Indonesia</a> •
+    <a href="/READMEJP.md">日本語</a> •
+    <a href="/READMECN.md">简化字</a>
   </p>
   <img src="src/new/WhiteBanner.gif" alt="Banner">
   <h1>Hi, I'm "Shiazza" or you can call me "Qs" 👋</h1>
