@@ -1,5 +1,5 @@
-<img src="src/new/WhiteBanner.gif" alt="Banner">
-  <h1>Hi, I'm "Shiazza" or you can call me "Qs" 👋</h1>
+<img src="src/new/duar.webp" alt="Banner">
+  <h1>Hi, Welcome to my GitHub 👋</h1>
 <hr>
 
 <h2>📖 About Me</h2>
