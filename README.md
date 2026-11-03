@@ -1,4 +1,4 @@
-<img src="src/new/duar.webp" alt="Banner">
+<img src="src/new/duar-hd.webp" alt="Banner">
   <h1>Hi, Welcome to my GitHub 👋</h1>
 <hr>
 
